@@ -1,0 +1,10 @@
+{
+  "name": "cloud-ide-frontend-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix monaco run dev",
+    "build": "npm --prefix monaco run build",
+    "preview": "npm --prefix monaco run preview"
+  }
+}
